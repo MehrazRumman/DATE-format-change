@@ -5,6 +5,10 @@
 
 
 
+<br>
+
+
+
 The proposed solution to create an education platform where students can enroll in courses, join seminars and bootcamps online, and ask mentors to clear doubts has the potential to be logical, practical, and applicable. Here's an analysis of each aspect:
 
 + ### 1. Logical:
@@ -98,6 +102,6 @@ An educational technology (EdTech) platform that includes online classes, live c
 
 20. **Integration with Learning Management Systems (LMS):** Integration with popular LMS platforms for educational institutions.
 
-These are some of the features that a comprehensive educational technology platform can offer to create a rich and interactive learning environment for students and teachers. The specific features and their implementation may vary depending on the platform and its target audience.
+
 
 
